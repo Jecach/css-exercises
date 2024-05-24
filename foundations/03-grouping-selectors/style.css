@@ -1,15 +1,16 @@
-.Click{
+.click {
     font-size: 28px;
     font-family: Helvetica,'Times New Roman', sans-serif ;
 }
-.Click .Me{
+.click.me {
     background-color: black;
     color: white;
     font-weight: bold;
-    border: gray;
+    border-color: gray;
 }
-.Click .NoMe{
+.click.nome {
     background-color: yellow;
     color: black;
-    border: black;
+    border-style: solid;
+    border-color: black;
 }
